@@ -58,7 +58,7 @@ export default function Home() {
           }}
           aria-pressed={choice === "join"}
         >
-          <div className="flex justify-center pt-4">
+          <div className="flex justify-start pt-4">
             <div style={{ width: 80, height: 80, borderRadius: "50%", background: "#F76C6C" }} />
           </div>
           <div className="text-left">
